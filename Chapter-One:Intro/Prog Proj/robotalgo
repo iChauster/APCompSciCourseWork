@@ -1,0 +1,41 @@
+public class RobotTrack{
+	public static void main(String[] args){
+		int WINDOWS = 0;
+		int corners = 0;
+		if(!wall !window){
+			goForward()
+		}
+		//when you hit the wall, move around clockwise
+		moveClockwise()
+	}
+	public static void moveClockwise(){
+		while(corners != 4){
+			turnRight();
+			if(checkCorner()){
+				goForward();
+			}else{
+				turnRight();
+				goForward();
+			}
+			turnLeft();
+			checkCase();
+		}
+	}
+	public static Boolean checkCorner(){
+		if(wall || window){
+			if(window){
+				WINDOWS ++;
+			}
+			return false;
+		}else{
+			corners ++;
+			return true;
+		}
+	}
+	public static void checkCase(){
+		if (window){
+			window ++;
+		}
+	}
+
+}
