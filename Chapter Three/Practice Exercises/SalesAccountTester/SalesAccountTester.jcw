@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>SalesAccountTester</label>
+	</settings>
+	<users>
+		<user>
+			<path>SalesAccountTester.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>SalesAccountTester.jcp</path>
+		</project>
+	</projects>
+</workspace>

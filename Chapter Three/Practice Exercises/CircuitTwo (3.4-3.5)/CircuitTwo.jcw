@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>CircuitTwo</label>
+	</settings>
+	<users>
+		<user>
+			<path>CircuitTwo.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>..\BankAccount\BankAccount.jcp</path>
+		</project>
+		<project>
+			<path>CircuitTwo.jcp</path>
+		</project>
+	</projects>
+</workspace>

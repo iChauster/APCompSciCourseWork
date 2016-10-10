@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>VendingMachine</label>
+	</settings>
+	<users>
+		<user>
+			<path>VendingMachine.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>VendingMachine.jcp</path>
+		</project>
+	</projects>
+</workspace>
