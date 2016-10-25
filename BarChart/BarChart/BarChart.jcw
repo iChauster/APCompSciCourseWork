@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>BarChart</label>
+	</settings>
+	<users>
+		<user>
+			<path>BarChart.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>BarChart.jcp</path>
+		</project>
+	</projects>
+</workspace>

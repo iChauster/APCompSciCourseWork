@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>CashRegisterTester</label>
+	</settings>
+	<users>
+		<user>
+			<path>CashRegisterTester.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>CashRegisterTester.jcp</path>
+		</project>
+	</projects>
+</workspace>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>House</label>
+	</settings>
+	<users>
+		<user>
+			<path>House.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>House.jcp</path>
+		</project>
+	</projects>
+</workspace>

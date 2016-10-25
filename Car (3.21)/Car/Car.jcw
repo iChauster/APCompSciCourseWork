@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Car</label>
+	</settings>
+	<users>
+		<user>
+			<path>Car.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Car.jcp</path>
+		</project>
+	</projects>
+</workspace>
