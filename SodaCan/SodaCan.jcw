@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>SodaCan</label>
+	</settings>
+	<users>
+		<user>
+			<path>SodaCan.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>SodaCan.jcp</path>
+		</project>
+	</projects>
+</workspace>
