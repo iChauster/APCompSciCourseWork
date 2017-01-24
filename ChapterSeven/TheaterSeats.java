@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+import java.util.Arrays;
 public class TheaterSeats {
 
     public static void main(String[] args) {
@@ -57,7 +57,12 @@ public class TheaterSeats {
             }
          }
         }
-   	 //print the seat/prices chart
+   	 for(int i = 0; i < seats.length; i ++){
+      for(int j = 0; j < seats[0].length; j ++){
+        System.out.print(seats[i][j] + "  ");
+      }
+      System.out.println();
+     }
     }
 
 }
