@@ -26,5 +26,18 @@ public class ArrayListRunner {
 		System.out.println(names);
 		System.out.println(names2);
 
+		//second part
+
+		ArrayList<String> fiveStrings = new ArrayList<String>();
+		fiveStrings.add("Ivan");
+		fiveStrings.add("Nihal");
+		fiveStrings.add("Saud");
+		fiveStrings.add("Matt");
+		fiveStrings.add("Mihir");
+		System.out.println(fiveStrings);
+		fiveStrings.remove(fiveStrings.size() - 1);
+		fiveStrings.set(1, "Calvin");
+		System.out.println(fiveStrings);
+
 	}
 }
