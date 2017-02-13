@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>BetterRectangle</label>
+	</settings>
+	<users>
+		<user>
+			<path>BetterRectangle.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>BetterRectangle.jcp</path>
+		</project>
+	</projects>
+</workspace>

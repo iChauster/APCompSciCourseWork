@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>CheckingAccount</label>
+	</settings>
+	<users>
+		<user>
+			<path>CheckingAccount.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>CheckingAccount.jcp</path>
+		</project>
+	</projects>
+</workspace>
